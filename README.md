@@ -3,7 +3,7 @@
 
 <hr>
 
-## DESCRIPTION OF PROBLEM:
+## DESCRIPTION OF THE PROBLEM:
 In this project, you are asked to implement a *Java Spring-Boot* web application that calls one of the *R* plot functions over GraalVM. 
 
 **What is required from you is as follows:**<br>
