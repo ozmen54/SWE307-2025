@@ -1,4 +1,4 @@
-# SWE307-2024 PROJECT 1
+# SWE307-2024 PROJECT 1: Data visualization
 ## Due date: 24.10.2024 Thursday, in class.
 
 <hr>
