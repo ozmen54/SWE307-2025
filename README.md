@@ -16,7 +16,7 @@
       <td><b>Data visualization.</b></td>
       <td>
         <b>a)</b> Every person in the group must install GraalVM and able to run the project that you are supposed to implement as a group.<br> 
-        <b>b)</b> Groups will use the attached CSV file as data source [swe307_pro1.csv](swe307_pro1.csv). Use only one column in this study, such as first group will use only *Col-1* data. There are 100 rows (100 data) in the file, and this file will be opened, read by Java not R.<br>
+        <b>b)</b> Groups will use the attached CSV file as data source .[swe307_pro1.csv](swe307_pro1.csv). Use only one column in this study, such as first group will use only *Col-1* data. There are 100 rows (100 data) in the file, and this file will be opened, read by Java not R.<br>
         <b>c)</b> Your Java program will read one consequtive row every second from the file, and the double number read will be sent to the R function for plot as shown in the class.<br>
         <b>d)</b> referebly use *xyplot()* from lattice library. In your plot, x axis will be integer from [0-99] and y axis will plot the double value sent from your Java program.<br>
         <b>e)</b> Your plot should be *line* type and the line color should be *dark brown*. Use *grid* in your graph.<br>
