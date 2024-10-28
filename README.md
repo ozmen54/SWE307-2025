@@ -20,7 +20,7 @@
         <b>c)</b> Your Java program will read one consequtive row every second from the file, and the double number read will be sent to the R function for plot as shown in the class.<br>
         <b>d)</b> referebly use *xyplot()* from lattice library. In your plot, x axis will be integer from [0-99] and y axis will plot the double value sent from your Java program.<br>
         <b>e)</b> Your plot should be *line* type and the line color should be *dark brown*. Use *grid* in your graph.<br>
-        <b>f)</b> Data source file: [swe307_pro1.csv](swe307_pro1.csv). Example output: [pro1.png](pro1.png).
+        <b>f)</b> Data source file: [swe307_pro1.csv](swe307_pro1.csv). Example output: ![pro1.png](pro1.png).
       </td>
       <td>24 October 2024 <br></td>
       <td><a href="pro1.pdf">Project1</a></td>
