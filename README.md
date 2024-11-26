@@ -50,7 +50,7 @@
         <b>f)</b> When e request comes from controller endpoint, the Spark routine must answer this as described in Project documentation. <br>
         <b>g)</b> There will be a single web page on your sytem that shows the similar output as you did on Project 2, however in this time there will be another column that shows instantaneous total expens amount. <br>
       </td>
-      <td>13 December 2024<br></td>
+      <td>12 December 2024<br></td>
       <td><a href="pro3.pdf">Project3</a></td>
     </tr>
 </body>
