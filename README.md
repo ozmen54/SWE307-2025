@@ -42,7 +42,7 @@
       <td>3</td>
       <td><b>To be announced.</b></td>
       <td>
-        <b>a)You ar egoing to implement big data system shown in <a href="https://github.com/ozmen54/SWE307-2024/blob/main/pro-3.pdf">Figure 1</a>.</b>  <br>
+        <b>a)</b> You are going to implement big data system shown in <a href="https://github.com/ozmen54/SWE307-2024/blob/main/pro-3.pdf">Figure 1</a>. <br>
         <b>b)</b>  <br>
         <b>c)</b>  <br>
         <b>d)</b> <br>
