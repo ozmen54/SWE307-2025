@@ -48,7 +48,7 @@
         <b>d)</b> <br>
         <b>e)</b>  <br>
       </td>
-      <td>To be announced.<br></td>
+      <td>13 December 2024<br></td>
       <td><a href="pro3.pdf">Project3</a></td>
     </tr>
 </body>
