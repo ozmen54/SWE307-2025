@@ -1,4 +1,4 @@
-# SWE307-2024 BIG DATA
+# SWE307-2025 BIG DATA
 
 ## Projects:
 
