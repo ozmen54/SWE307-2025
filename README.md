@@ -22,7 +22,7 @@
         <b>e)</b> Your plot should be *line* type and the line color should be *dark brown*. Use *grid* in your graph.<br>
         <b>f)</b> Example output: ![pro1.png](pro1.png).
       </td>
-      <td>24 October 2024 <br></td>
+      <td>9 Oct 2025 <br></td>
       <td><a href="pro1.pdf">Project1</a></td>
     </tr>
     <tr>
@@ -35,23 +35,38 @@
         <b>d)</b> Show that the user image file uploading and displaying them on the web page work. <br>
         <b>e)</b> Show that your application runs as expected.
       </td>
-      <td>8 November 2024<br></td>
+      <td>6 Nov 2025<br></td>
       <td><a href="pro2.pdf">Project2</a></td>
     </tr>
     <tr>
       <td>3</td>
       <td><b>Kafka-Spark-Cassandra Data Path</b></td>
       <td>
-        <b>a)</b> You are going to implement big data system shown in <a href="https://github.com/ozmen54/SWE307-2024/blob/main/pro-3.pdf">Figure 1</a>. <br>
-        <b>b)</b> You need to create a console application that genarates random data as described in the project document (<a href="https://github.com/ozmen54/SWE307-2024/blob/main/pro3.pdf">Project 3</a>). You can implement this server using any language as you wish. <br>
+        <b>a)</b> You are going to implement big data system shown in <a href="https://github.com/ozmen54/SWE307-2025/blob/main/pro-3.pdf">Figure 1</a>. <br>
+        <b>b)</b> You need to create a console application that genarates random data as described in the project document (<a href="https://github.com/ozmen54/SWE307-2025/blob/main/pro3.pdf">Project 3</a>). You can implement this server using any language as you wish. <br>
         <b>c)</b> You need to install Kafka, Spark and Cassandra along with Hodoop-HDFS. <br>
         <b>d)</b> You need to start up Kafka with the topics assigned to each user. Kafka will start queuing incoming expense records.<br>
         <b>e)</b> You will write some Spark scripts using Scala or Python that will fetch records on Kafka topics periodically in a loop. Every new record must be stored on Cassandra. <br>
         <b>f)</b> When e request comes from controller endpoint, the Spark routine must answer this as described in Project documentation. <br>
         <b>g)</b> There will be a single web page on your sytem that shows the similar output as you did on Project 2, however in this time there will be another column that shows instantaneous total expens amount. <br>
       </td>
-      <td>12 December 2024<br></td>
+      <td>27 Nov 2024<br></td>
       <td><a href="pro3.pdf">Project3</a></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td><b>ETL</b></td>
+      <td>
+        <b>a)</b> You are going to implement ETL system shown in <a href="https://github.com/ozmen54/SWE307-2025/blob/main/pro-4.pdf">Figure 1</a>. <br>
+        <b>b)</b> You need to create a console application that trigger data transfer as described in the project document (<a href="https://github.com/ozmen54/SWE307-2025/blob/main/pro4.pdf">Project 4</a>). You can implement this system using any language as you wish. <br>
+        <b>c)</b> You need to install NiFi and with Hodoop-HDFS. <br>
+        <b>d)</b> Will be written.<br>
+        <b>e)</b> Will be written.<br>
+        <b>f)</b> Will be written.<br>
+        <b>g)</b> There will be a single web page on your sytem that shows the ETL process. <br>
+      </td>
+      <td>25 Dec 2025<br></td>
+      <td><a href="pro4.pdf">Project4</a></td>
     </tr>
 </body>
 </table>
