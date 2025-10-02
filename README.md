@@ -36,7 +36,7 @@
         <b>e)</b> Show that your application runs as expected.
       </td>
       <td>6 Nov 2025<br></td>
-      <td><a href="pro2.pdf">Project2</a></td>
+      <td><a href="pro2_2025.pdf">Project2</a></td>
     </tr>
     <tr>
       <td>3</td>
