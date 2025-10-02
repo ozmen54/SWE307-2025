@@ -20,7 +20,7 @@
         <b>c)</b> There are 100 rows, your Java program will read one consequtive row every second from the MongoDB in cyclic fashion, and the double number read will be sent to the R function for plot as shown in the class.<br>
         <b>d)</b> Preferebly use <i>xyplot()</i> from lattice library. In your plot, x axis will be integer from [0-99] and y axis will plot the double value sent from your Java program.<br>
         <b>e)</b> Your plot should be <i>line</i> type and the line color should be <i>dark brown</i>. Use <i>grid</i> in your graph.<br>
-        <b>f)</b> Example output: <a href = "https://github.com/ozmen54/SWE307-2025/blob/main/pro1.png">Figure 1</a> .
+        <b>f)</b> Block diagram: <a href = "https://github.com/ozmen54/SWE307-2025/blob/main/pro1block.png">Figure 1</a>. Example output: <a href = "https://github.com/ozmen54/SWE307-2025/blob/main/pro1.png">Figure 2</a> .
       </td>
       <td>9 Oct 2025 <br></td>
       <td><a href="pro1.pdf">Project1</a></td>
