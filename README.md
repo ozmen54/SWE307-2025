@@ -23,7 +23,7 @@
         <b>f)</b> Block diagram: <a href = "https://github.com/ozmen54/SWE307-2025/blob/main/pro1block.png">Figure 1</a>. Example output: <a href = "https://github.com/ozmen54/SWE307-2025/blob/main/pro1.png">Figure 2</a> .
       </td>
       <td>9 Oct 2025 <br></td>
-      <td><a href="pro1.pdf">Project1</a></td>
+      <td><a href="pro1_2025.pdf">Project1</a></td>
     </tr>
     <tr>
       <td>2</td>
