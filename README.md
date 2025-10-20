@@ -48,7 +48,7 @@
         <b>d)</b> You need to start up Kafka with the topics assigned to each user. Kafka will start queuing incoming expense records.<br>
         <b>e)</b> You will write some Spark scripts using Scala or Python that will fetch records on Kafka topics periodically in a loop. Every new record must be stored on Cassandra. <br>
         <b>f)</b> When a web request comes to controller endpoint, the Spark routine must answer this as described in the Project documentation. <br>
-        <b>g)</b> There will be a single web page on your sytem that shows the similar output as you did on Project 2, however in this time there will be another column that shows instantaneous total expens amount. <br>
+        <b>g)</b> There will be a single web page on your sytem that shows the similar output as you did on Project 2, however in this time there will be another column that shows instantaneous total expens amount. <br> 
       </td>
       <td>27 Nov 2024<br></td>
       <td><a href="pro3.pdf">Project3</a></td>
