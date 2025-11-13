@@ -43,7 +43,7 @@
       <td><b>Kafka-Spark-Cassandra Data Path</b></td>
       <td>
         <b>a)</b> You are going to implement a big data system shown in <a href="https://github.com/ozmen54/SWE307-2025/blob/main/pro-3.pdf">Figure 1</a>. <br>
-        <b>b)</b> You need to create a console application that genarates random data as described in the project document (<a href="https://github.com/ozmen54/SWE307-2025/blob/main/pro3.pdf">Project 3</a>). You can implement this server using any language as you wish. <br>
+        <b>b)</b> You need to create a console application that genarates random data as described in the project document (<a href="https://github.com/ozmen54/SWE307-2025/blob/main/pro3-25.pdf">Project 3</a>). You can implement this server using any language as you wish. <br>
         <b>c)</b> You need to install Kafka, Spark and Cassandra along with Hodoop-HDFS. <br>
         <b>d)</b> You need to start up Kafka with the topics assigned to each user. Kafka will start queuing incoming expense records.<br>
         <b>e)</b> You will write some Spark scripts using Scala or Python that will fetch records on Kafka topics periodically in a loop. Every new record must be stored on Cassandra. <br>
@@ -51,7 +51,7 @@
         <b>g)</b> There will be a single web page on your sytem that shows the similar output as you did on Project 2, however in this time there will be another column that shows instantaneous total expens amount. <br> 
       </td>
       <td>27 Nov 2025<br></td>
-      <td><a href="pro3.pdf">Project3</a></td>
+      <td><a href="pro3-25.pdf">Project3</a></td>
     </tr>
     <tr>
       <td>4</td>
