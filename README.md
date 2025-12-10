@@ -58,7 +58,7 @@
       <td><b>ETL with NiFi</b></td>
       <td>
         <b>a)</b> You are going to implement ETL system shown in <a href="https://github.com/ozmen54/SWE307-2025/blob/main/pro-4.pdf">Figure 1</a>. <br>
-        <b>b)</b> Data sources will be two different EC2 instances on AWS or VMs on Azure: One will host MongoDB, and theother will host MySQL. The data will be provided here as cvs files. <br>
+        <b>b)</b> Data sources will be two different EC2 instances on AWS or VMs on Azure: One will host MongoDB, and theother will host MySQL. The data will be provided here as cvs files: <a href="expense.csv">expense.csv</a>, <a href="emp.csv">emp.csv</a>, <a href="dept.csv">dept.csv</a>. <br>
         <b>c)</b> You need to install Apache-NiFi, Apache-Hive and Apache-Hodoop-HDFS. <br>
         <b>d)</b> Transfer and load the data to the databases using NiFi or other methods.<br>
         <b>e)</b> Design a NiFi pipeline, so data from two different sources will be collected to locally installed Hive with the same name database name (big25) and table names (or collection name).<br>
