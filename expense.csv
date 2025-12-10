@@ -1,3 +1,0 @@
-id, empno, edate, description, etype, count, amount
-1, 7499, 2024-11-27T09:12, 'Bread', 'Food', 2, 30.00
-2, 7698, 2024-10-12T17:23, 'Network Card', 'Electronics', 1, 125.34
