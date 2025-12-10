@@ -55,15 +55,15 @@
     </tr>
     <tr>
       <td>4</td>
-      <td><b>ETL</b></td>
+      <td><b>ETL with NiFi</b></td>
       <td>
         <b>a)</b> You are going to implement ETL system shown in <a href="https://github.com/ozmen54/SWE307-2025/blob/main/pro-4.pdf">Figure 1</a>. <br>
-        <b>b)</b> You need to create a console application that trigger data transfer as described in the project document (<a href="https://github.com/ozmen54/SWE307-2025/blob/main/pro4.pdf">Project 4</a>). You can implement this system using any language as you wish. <br>
-        <b>c)</b> You need to install NiFi and with Hodoop-HDFS. <br>
-        <b>d)</b> Will be written.<br>
-        <b>e)</b> Will be written.<br>
-        <b>f)</b> Will be written.<br>
-        <b>g)</b> There will be a single web page on your sytem that shows the ETL process. <br>
+        <b>b)</b> Data sources will be two different EC2 instances on AWS or VMs on Azure: One will host MongoDB, and theother will host MySQL. The data will be provided here as cvs files. <br>
+        <b>c)</b> You need to install Apache-NiFi, Apache-Hive and Apache-Hodoop-HDFS. <br>
+        <b>d)</b> Transfer and load the data to the databases using NiFi or other methods.<br>
+        <b>e)</b> Design a NiFi pipeline, so data from two different sources will be collected to locally installed Hive with the same name database name (big25) and table names (or collection name).<br>
+        <b>f)</b> Create the pipeline and fetch the data from differen sources to your local computer and store them into Hive DB in JSON format.<br>
+        <b>g)</b> Do some anaylitacal work using HiveQL queries with joins and show: "1) who (with name) spends how much for food or appliences?", "2) Which department made the most purchases?", "3) How spent the most?"<br>
       </td>
       <td>25 Dec 2025<br></td>
       <td><a href="pro4.pdf">Project4</a></td>
